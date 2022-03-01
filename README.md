@@ -1,12 +1,9 @@
-# Portfolio
-My website portfolio
+# Movie Website
+Movie Website
 
 ## Screenshots:
-### Computer View
-![alt text](https://github.com/Bakirprod/bakirser/blob/main/Portfolio.png)
 
-### Mobile View
-![alt text](https://github.com/Bakirprod/bakirser/blob/main/Portfolio_mobile.png)
+![alt text](https://github.com/Bakirprod/Movie-Website/blob/main/moviesite.png)
 
-## Author
+## Youtube Channel
 * Bakir Productions (https://www.youtube.com/channel/UCIsSWttukWnswT5AW-7ECZQ)
